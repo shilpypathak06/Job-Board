@@ -1,1 +1,1 @@
-# Job-Board
+# codsoft-jobboard
